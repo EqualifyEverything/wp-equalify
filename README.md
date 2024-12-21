@@ -1,4 +1,4 @@
-# Equalify Bot
+# Alt-text Bot by Equalify
 
 Equalify Bot looks at all text in post images.
 
